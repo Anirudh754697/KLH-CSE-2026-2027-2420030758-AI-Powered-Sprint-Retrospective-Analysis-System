@@ -4,14 +4,14 @@
 
 | Name            | ID Number   |
 | --------------- | ----------- |
-| [Member 1 Name] | [ID Number] |
-| [Member 2 Name] | [ID Number] |
-| [Member 3 Name] | [ID Number] |
-| [Member 4 Name] | [ID Number] |
+| Sanjay Vainala  | 2420030385  |
+| N Karthik       | 2420030511  |
+| G Anirudh       | 2420030758  |
+| P Rithish Rao   | 2420030778  |
 
 ## Supervisor
 
-**Supervisor Name:** [Supervisor Name]
+**Supervisor Name:** RajKumar Patil
 
 ---
 
@@ -156,7 +156,7 @@ http://127.0.0.1:5000
 
 ### Phase 2 – System Design
 
-**Status: Completed / In Progress 🔄**
+**Status: In Progress 🔄**
 
 * System architecture planned
 * Database structure designed
@@ -165,7 +165,7 @@ http://127.0.0.1:5000
 
 ### Phase 3 – Implementation
 
-**Status: In Progress 🔄**
+**Status: Not Started ⏳**
 
 * Frontend development
 * Backend development

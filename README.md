@@ -19,7 +19,7 @@
 
 The abstract of the project is provided as a separate PDF document.
 
-**[View Abstract](Abstract.pdf)**
+**[View Abstract](docs/ASE-projectabstract.pdf)**
 
 ---
 
